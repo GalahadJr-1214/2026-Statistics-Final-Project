@@ -6,3 +6,6 @@ https://gemini.google.com/share/081f957375cf
 
 ## Stats Explanation from Basketball Reference (where i scraped the data)
 https://www.basketball-reference.com/about/glossary.html#mp
+
+## Offensive Rating (ORtg) & Defensive Rating (DRtg)
+https://www.basketball-reference.com/about/ratings.html
