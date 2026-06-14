@@ -9,3 +9,6 @@ https://www.basketball-reference.com/about/glossary.html#mp
 
 ## Offensive Rating (ORtg) & Defensive Rating (DRtg)
 https://www.basketball-reference.com/about/ratings.html
+
+## Report
+https://docs.google.com/document/d/1-SLcO9X0kYhE_iRTp2SVUEnYxkeOHMOMImdc2T5xf78/edit?usp=drivesdk
